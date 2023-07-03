@@ -35,3 +35,14 @@ CustomerID- Unique ID of a customer
 <br>Cards - Number of cards the individual has
 <br>Balance - Current account balance of the individual (Thousands)
 
+
+# Data Cleaning and Visualization
+
+Both the dataset has distinct columns except CustomerID and number of rows are same.
+<br>Joining both the dataset for ease of analysis.
+<br>Here Concat funtion keys are not used since, both the datasets have same order and number of CustomerIDs.
+![image](https://github.com/nayankm/Capstone/assets/122444022/9c9cef4f-d070-4eec-ae2a-66de185a6f6d)
+
+
+
+
