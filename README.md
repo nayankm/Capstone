@@ -113,6 +113,29 @@ number of outliers: 571
 ## Hence, the dataset is clean and fine for analysis.
 
 # Exploratory Data Analysis
+## EDA Univariate Analysis
+<br>In the below fig, histogram and box plot is used to show the pattern of the variables, as some variables have skewness and outliers.
+<br>All the variables "Age, Income, Limit, Rating, Cards and Balance" are positively skewed distribution.<br>
+![image](https://github.com/nayankm/Capstone/assets/122444022/e578d492-dee4-4cdb-9ca2-3133437c0681)
+![image](https://github.com/nayankm/Capstone/assets/122444022/92e9025d-949c-4aa5-9465-35c57e5dc1d5)
+![image](https://github.com/nayankm/Capstone/assets/122444022/36c25f48-fd13-4a21-bdfb-17026534b896)
+![image](https://github.com/nayankm/Capstone/assets/122444022/3163a5ef-5750-4652-bd5a-4320fe297c9c)
+![image](https://github.com/nayankm/Capstone/assets/122444022/0b0f794a-2380-416e-8223-fabb1132db4f)
+![image](https://github.com/nayankm/Capstone/assets/122444022/10e92a44-8951-4dd6-a17c-964a4b5b8076)
+![image](https://github.com/nayankm/Capstone/assets/122444022/801dafc7-7d5c-4ae6-b5a7-577e1c9b7600)
+<br>Above data shows that Income data is higly positive skewed. That does not seems to be swaying analysis and may rather help in analysing high income card holders.
+
+## Performing correlation analysis to identify factors that are correlated with card limit.
+![image](https://github.com/nayankm/Capstone/assets/122444022/7ef5ab52-4d6f-437c-8140-8130e1d96ecf)
+<br>Credit rating and income are both positively correlated with card limit, meaning that customers with higher rating and incomes tend to have higher card limits.
+
+
+
+
+
+
+
+
 
 
 
