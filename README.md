@@ -129,6 +129,34 @@ number of outliers: 571
 ![image](https://github.com/nayankm/Capstone/assets/122444022/7ef5ab52-4d6f-437c-8140-8130e1d96ecf)
 <br>Credit rating and income are both positively correlated with card limit, meaning that customers with higher rating and incomes tend to have higher card limits.
 
+## Relationship of Marital Status with Numerical data
+<img width="868" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/2d96e2bd-1e8d-4c6e-bdbb-c288412408eb">
+<img width="868" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/50831da0-09a0-4aeb-bae4-c98004024f5c">
+<img width="868" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/a5529baf-e9ec-4f0f-afba-0a2070b4defc">
+<img width="363" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/5fc97281-386b-4b7b-8621-bf84a1058bff">
+We can infer following findings:
+<br>Only married and unmarried are evident in the dataset. Seperated, Divorced and Widow are negligible in dataset.
+<br>Mostly unmarried are max in all cardholder ages and Widow are aged among all.
+<br>Widow are highest earner and Divorced are least earner. After Widow, Married card holder have higher limit.
+<br>Rating-wise Widow stands top the list.
+<br>Maximum number of cards are held by unmarried.
+<br>Most of card holders are using to the maximum limit of the card. Unmarried are slightly higher than married in spending over cards and also hold maximum balance.
+
+## Relationship of Gender with Numerical data
+<img width="872" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/1522f84d-43d5-4d59-b12a-7b7c65035f57">
+<img width="868" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/01a95d8d-c4ea-4689-b368-6c2c20e82563">
+<img width="869" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/ecad592f-ef27-4224-b7b6-e6f10b8aefe4">
+<img width="424" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/d6fce1e3-b956-46f2-a21f-9c6880fcaea3">
+We can infer following findings:
+<br>Female card holders are slightly higher compare to Male in all the parameters.
+<br>Maximum female card holders are at lower as well as higher income braket.
+<br>Male card holders have better limit.
+<br>Female card holders have better rating.
+<br>Both stands at same for maximum number of cards are held.
+<br>Male are keeping good balance compare to female.
+
+
+
 
 
 
