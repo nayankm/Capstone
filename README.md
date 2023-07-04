@@ -155,8 +155,26 @@ We can infer following findings:
 <br>Both stands at same for maximum number of cards are held.
 <br>Male are keeping good balance compare to female.
 
+## Relationship of Ethnicity with Numerical data
+<img width="869" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/1e654bf2-ccdb-4194-8d3e-5f280bfe17e3">
+<img width="871" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/62bdad00-644f-4fc4-8155-a41147024ef1">
+<img width="868" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/8115ef5a-a5c0-4cf1-955b-b7863a2eb00b">
+<img width="371" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/8bbdd2e3-0ac4-4f33-ab16-867c6280c8bd">
+<br>50% of card holders are from Caucasian.
+<br>African American are higher in income, limit, rating and balance.
+<br>African American are comparitively younger.
 
-
+## Relationship of Education with Numerical data
+<img width="869" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/512aa5ed-33eb-4c9e-b458-f2bbd8898987">
+<img width="872" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/297555d6-b5ce-42e5-9b10-26f12b37122a">
+<img width="871" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/7eac909f-5c29-4bc9-9442-7f03a6f5314f">
+<img width="380" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/cfc3aae5-5155-40e7-8c79-75590979eaea">
+<br>Most card holders are Highly educated, among them Master degree holder are max.
+<br>High School are younger among all.
+<br>Elementary are higher in earning.
+<br>Secondary holds good limit.
+<br>Elementary has good rating.
+<br>High School has better balance.
 
 
 
