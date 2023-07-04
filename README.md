@@ -147,7 +147,7 @@ We can infer following findings:
 <img width="868" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/01a95d8d-c4ea-4689-b368-6c2c20e82563">
 <img width="869" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/ecad592f-ef27-4224-b7b6-e6f10b8aefe4">
 <img width="424" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/d6fce1e3-b956-46f2-a21f-9c6880fcaea3">
-We can infer following findings:
+<br>We can infer following findings:
 <br>Female card holders are slightly higher compare to Male in all the parameters.
 <br>Maximum female card holders are at lower as well as higher income braket.
 <br>Male card holders have better limit.
