@@ -55,7 +55,7 @@ There are 6 categorical data and 6 numerical data
 <br>![image](https://github.com/nayankm/Capstone/assets/122444022/e322dd75-c928-41eb-bbe7-ad60209d199d)
 
 ## Unique value in dataset
-![image](https://github.com/nayankm/Capstone/assets/122444022/07d2cc83-457e-4f0f-ab1b-99dfc6edc51a)
+<img width="142" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/dcf755c6-d932-4c80-a413-b3c15664d71a">
 <br>From the above data only "Age, Income, Limit, Rating, Balance" are quantitative continuous variables
 <br>whereas "Cards, " is quantitative Discrete variables
 <br>From above data CustomerID is removed from mode as there will be no repetative values and all values are unique
@@ -85,7 +85,7 @@ There are 6 categorical data and 6 numerical data
 <br>4. Most of the customer are highly educated holding Master degree.
 
 ## The measures of central tendency for all the variables
-![image](https://github.com/nayankm/Capstone/assets/122444022/a1e0c89b-f37c-479c-8b8b-f9d49f2ba484)
+<img width="182" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/b653629d-fd4f-4be0-afbe-0d4b5f8513d5">
 
 ## Outliers in dataset
 ![image](https://github.com/nayankm/Capstone/assets/122444022/9647f3a2-3560-481c-ba50-4ff3549db3d1)
