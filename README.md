@@ -134,7 +134,7 @@ number of outliers: 571
 <img width="868" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/50831da0-09a0-4aeb-bae4-c98004024f5c">
 <img width="868" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/a5529baf-e9ec-4f0f-afba-0a2070b4defc">
 <img width="363" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/5fc97281-386b-4b7b-8621-bf84a1058bff">
-We can infer following findings:
+<br>We can infer following findings:
 <br>Only married and unmarried are evident in the dataset. Seperated, Divorced and Widow are negligible in dataset.
 <br>Mostly unmarried are max in all cardholder ages and Widow are aged among all.
 <br>Widow are highest earner and Divorced are least earner. After Widow, Married card holder have higher limit.
