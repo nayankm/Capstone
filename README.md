@@ -65,7 +65,7 @@ There are 6 categorical data and 6 numerical data
 
 ## Statistic summary of numerical data
 ![image](https://github.com/nayankm/Capstone/assets/122444022/3c104203-fc8a-42c9-bb1e-04a1d120de87)
-![image](https://github.com/nayankm/Capstone/assets/122444022/2ed0783c-f988-4772-8071-19c68cf2b048)
+<img width="451" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/c146223a-2c50-456f-be5f-6f2dfbb8bac2">
 <br>From the statistics summary, we can infer the below findings :
 <br>1. Card holders age is between 25 - 86 years. Most of the card holders are mid-age to senior citizen.
 <br>2. Income-wise most card holders are in 20-60Lakhs cap. However, there is group earning higher income which must be target separately for more service and facilities.
@@ -77,7 +77,7 @@ There are 6 categorical data and 6 numerical data
 ## Statistic summary of categorical data
 ![image](https://github.com/nayankm/Capstone/assets/122444022/efbdb7eb-0dce-4770-aacf-b61b8e4e70eb)
 ![image](https://github.com/nayankm/Capstone/assets/122444022/6f9c1c57-aa31-4502-89fe-4a4509e7301f)
-![image](https://github.com/nayankm/Capstone/assets/122444022/00a1a02f-7f55-44fe-b9fd-ab3d0169ab2a)
+<img width="286" alt="image" src="https://github.com/nayankm/Capstone/assets/122444022/543289dd-812d-44cf-99cd-ca579f004435">
 <br>From the statistics summary, we can infer the below findings :
 <br>1. Similar card holder names are existing where Claude appears 9 times.
 <br>2. Dataset data is unique as each card holder has unique Customer ID.
