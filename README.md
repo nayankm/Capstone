@@ -205,17 +205,39 @@ number of outliers: 571
 ![image](https://github.com/nayankm/Capstone/assets/122444022/641b29d8-0179-43fb-b666-ab73b9724444)
 ![image](https://github.com/nayankm/Capstone/assets/122444022/fd5e82ab-ac7e-43c5-9068-f34dea11dff5)
 
+## Creating bins for Rating
+![image](https://github.com/nayankm/Capstone/assets/122444022/91970ae3-78f4-456e-b557-ab600499dea4)
+![image](https://github.com/nayankm/Capstone/assets/122444022/c6ed8aca-0e6b-44f2-a710-f1b0c94deadb)
 
+## Creating bins for Limit
+![image](https://github.com/nayankm/Capstone/assets/122444022/c4c3cbaf-a4d5-405b-b860-12ab756d42aa)
+![image](https://github.com/nayankm/Capstone/assets/122444022/14d14564-95cb-4ee2-958b-5ced48c3f656)
 
+## Analysis on relation between Income, Rating and Limit
+![image](https://github.com/nayankm/Capstone/assets/122444022/6c458dbf-5349-4231-8b40-6b77648d9a37)
 
+<br>Relationship of Limit with Income is positive. However, High and Very High Income need to be consider for Limit enhancement.
+<br>Low Income <--> Low Limit
+<br>Average Income <--> Low Limit
+<br>High Income <--> Average Limit
+<br>Very High Income <--> Average Limit<br>
+<br>Limit given to card holder as per their ratings.
+<br>Low rating       <--> Low limit
+<br>Average rating   <--> Average limit
+<br>High rating      <--> High limit
+<br>Very high rating <--> Very high limit
 
+![image](https://github.com/nayankm/Capstone/assets/122444022/c77fbf21-960a-4edf-9b18-08c06c6ff8ad)
+<br>High and Very High Income customer have poor rating compare to Low and Average Income customer.
 
+## Potentential Customer for limit enhancement
+(Income Range = Very High & Limit Range = Low | Average | High) & (Income Range = High & Limit Range = Low | Average)
 
-
-
-
-
-
+# Conclusion
+Potential Customers should be assigned with dedicated CRM(Customer Relationship Manager).
+<br>They should be pushed for premium charged cards and should be guided for its benefit and waiver plans.
+<br>Charged cards are beneficial specially for customers with high and very high income as they comes with bundles of membership in travels, accommodations, dinning, etc.
+<br>Although revenue is generated through interest on amount utilized. However, Customers with balance = 0 should be given attention for converting their outstanding to EMI and scope of Limit enhancement if possible.
 
 
 
