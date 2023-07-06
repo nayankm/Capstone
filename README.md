@@ -185,6 +185,26 @@ number of outliers: 571
 <br>Elementary has good rating.
 <br>High School has better balance.
 
+## Observe Bi-variate distributions
+![image](https://github.com/nayankm/Capstone/assets/122444022/e8be09f6-cbd2-4529-920c-04af99b1a8aa)
+![image](https://github.com/nayankm/Capstone/assets/122444022/7c1735fd-5104-4430-b277-0774d3b23378)
+![image](https://github.com/nayankm/Capstone/assets/122444022/d4c7c9b6-23ee-4f78-b581-c43617e9634f)
+<br>We can infer following finding:
+<br>Age is negatively correlated with Income, Card Limit, Rating.
+<br>Income is positively correlated with Card Limit, Rating and Balance.
+<br>Card Limit is positively correlated with Rating and Balance.
+<br>Rating is positively correlated with Card Balance.
+
+## Creating bins for Income
+![image](https://github.com/nayankm/Capstone/assets/122444022/ce82807c-5a4d-40f8-a4c1-472c410de8df)
+![image](https://github.com/nayankm/Capstone/assets/122444022/f5502066-1361-4e99-a43b-e9a63e9d154e)
+![image](https://github.com/nayankm/Capstone/assets/122444022/77ab699e-4c59-42cb-9c09-873a781b24d0)
+![image](https://github.com/nayankm/Capstone/assets/122444022/feda8286-f115-48b9-994f-ab94c560f36a)
+![image](https://github.com/nayankm/Capstone/assets/122444022/5c67a2bd-0ca6-4101-911b-ee604bd3d769)
+![image](https://github.com/nayankm/Capstone/assets/122444022/3bddbc54-9725-4e06-a21f-d07610f69348)
+![image](https://github.com/nayankm/Capstone/assets/122444022/641b29d8-0179-43fb-b666-ab73b9724444)
+![image](https://github.com/nayankm/Capstone/assets/122444022/fd5e82ab-ac7e-43c5-9068-f34dea11dff5)
+
 
 
 
