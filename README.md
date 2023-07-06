@@ -35,8 +35,16 @@ CustomerID- Unique ID of a customer
 <br>Cards - Number of cards the individual has
 <br>Balance - Current account balance of the individual (Thousands)
 
+# There are two part for analyis:
+## 1. Data Cleaning and Visualization
+## 2. EDA
 
-# Data Cleaning and Visualization
+### TwoDotSeven-Data-Clean.ipynb file has part1 analysis
+### TwoDotSeven-EDA.ipynb file has part2 analysis
+### Both the dataset Card Details.csv and Customer Details.csv are suppose to be downloaded and file location should be shared in Jupyter Notebook import dataset section.
+
+
+# Part1. Data Cleaning and Visualization
 
 Both the dataset has distinct columns except CustomerID and number of rows are same.
 <br>Joining both the dataset for ease of analysis.
@@ -112,7 +120,8 @@ number of outliers: 571
 
 ## Hence, the dataset is clean and fine for analysis.
 
-# Exploratory Data Analysis
+
+# Part2. Exploratory Data Analysis
 ## EDA Univariate Analysis
 <br>In the below fig, histogram and box plot is used to show the pattern of the variables, as some variables have skewness and outliers.
 <br>All the variables "Age, Income, Limit, Rating, Cards and Balance" are positively skewed distribution.<br>
